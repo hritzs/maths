@@ -1,3 +1,5 @@
+# HEY FOLKS ! THIS IS A FUN PROJECT FOR MY BROTHER EXAM NEXT DAY , IT BASICALLY CONSIST OF A QUIZ GAME WHICH IS SCORED AT THE VERY LAST , TO ADD YOUR OWN QUESTIONS AND ANSWERS JUST ADD THE QUESTIONS IN THE QUESTION VARIABLE IN APP.JS WITH MCQ ANSWER !  GOOD LUCK 😊.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
